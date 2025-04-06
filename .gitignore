@@ -1,0 +1,40 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VS / JetBrains
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash Reports
+sysinfo.txt
+
+# Unity-generated
+ExportedObj/
+*.apk
+*.unitypackage
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.svd.meta
+
+# Others
+.DS_Store
+*.swp
